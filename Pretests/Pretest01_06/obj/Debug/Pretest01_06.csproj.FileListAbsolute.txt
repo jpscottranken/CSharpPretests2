@@ -1,0 +1,10 @@
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest01_06\bin\Debug\Pretest01_06.exe.config
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest01_06\bin\Debug\Pretest01_06.exe
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest01_06\bin\Debug\Pretest01_06.pdb
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest01_06\obj\Debug\Pretest01_06.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest01_06\obj\Debug\Pretest01_06.frmDistanceConverter.resources
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest01_06\obj\Debug\Pretest01_06.Properties.Resources.resources
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest01_06\obj\Debug\Pretest01_06.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest01_06\obj\Debug\Pretest01_06.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest01_06\obj\Debug\Pretest01_06.exe
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest01_06\obj\Debug\Pretest01_06.pdb

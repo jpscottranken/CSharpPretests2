@@ -1,0 +1,10 @@
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest02_01\bin\Debug\Pretest02_01.exe.config
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest02_01\bin\Debug\Pretest02_01.exe
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest02_01\bin\Debug\Pretest02_01.pdb
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest02_01\obj\Debug\Pretest02_01.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest02_01\obj\Debug\Pretest02_01.frmTemperatureConverter.resources
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest02_01\obj\Debug\Pretest02_01.Properties.Resources.resources
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest02_01\obj\Debug\Pretest02_01.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest02_01\obj\Debug\Pretest02_01.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest02_01\obj\Debug\Pretest02_01.exe
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest02_01\obj\Debug\Pretest02_01.pdb

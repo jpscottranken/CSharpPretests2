@@ -1,0 +1,7 @@
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest01_05\bin\Debug\Pretest01_05.exe.config
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest01_05\bin\Debug\Pretest01_05.exe
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest01_05\bin\Debug\Pretest01_05.pdb
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest01_05\obj\Debug\Pretest01_05.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest01_05\obj\Debug\Pretest01_05.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest01_05\obj\Debug\Pretest01_05.exe
+C:\Users\jpscott\Desktop\C#Pretests\Pretests\Pretest01_05\obj\Debug\Pretest01_05.pdb
